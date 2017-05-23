@@ -16,3 +16,4 @@ You could go to an obscure URL if you wanted your own private room. E.g. debris.
 Moderators would try their best to kick trolls into 'hell'. Hell was just a room full of the worst users. It was the only room they could access.
 
 
+Someone want to help build this thing?
